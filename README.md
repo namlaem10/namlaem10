@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I'm Nam 👋
+⚡ A student just graduated from Saigon University, a software engineer who has a passion for coding and learning new things, especially about mobile development. 
+Connect with me in [here](https://www.linkedin.com/in/namlaem0810/)
 <!--
 **namlaem10/namlaem10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
